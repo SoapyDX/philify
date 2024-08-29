@@ -26,8 +26,8 @@ To verify that the extension is working, navigate to any YouTube video and check
 
 Here are some examples of how phil looks on YouTube thumbnails:
 
-- **Example 1**: ![Example Screenshot 1](github/sc1.png)
-- **Example 2**: ![Example Screenshot 2](github/sc2.png)
+- ![Example Screenshot 1](github/sc1.png)
+- ![Example Screenshot 2](github/sc2.png)
 
 ## Contact
 
