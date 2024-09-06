@@ -4,7 +4,7 @@ Philify overlays a phil on every YouTube thumbnail to add a unique touch to your
 
 ## Installation
 
-To install the Philify extension, follow these steps:
+To install Philify, follow these steps:
 
 1. Download the Extension
 
